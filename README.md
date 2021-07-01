@@ -5,9 +5,6 @@
 - I am also really enjoing [Jugendhackt](https://jugendhackt.org/).🦙
 - More about me on my [Website](https://konradrundfunk.me) 🎉
 
-
-![Konrad's GitHub stats](https://github-readme-stats.vercel.app/api?username=konradrundfunk)
-
 <!--
 **Konradrundfunk/konradrundfunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
