@@ -1,7 +1,7 @@
 ### Hi glad you are checking by! 💬
 
 - A more or less python and dart dev here, that's doing casual flask and flutter projects.🐍
-- Currently I am doing my [Ham exam(german repo)](https://github.com/Konradrundfunk/Amateurfunklehrgang).📻
+- I am a licenced german amateur radio operator.📻
 - I am also really enjoing [Jugendhackt](https://jugendhackt.org/).🦙
 - More about me on my [Website](https://konradrundfunk.me) 🎉
 
