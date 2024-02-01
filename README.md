@@ -5,6 +5,7 @@
 - I am a licenced german amateur radio operator.📻
 - I am also really enjoing [Jugendhackt](https://jugendhackt.org/).🦙
 - More about me on my [Website](https://nereid.space) 🎉
+- [parkfails](https://parkfails.de)
 
 <!--
 **Konradrundfunk/konradrundfunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
